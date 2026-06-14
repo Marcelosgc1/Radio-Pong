@@ -1,0 +1,12 @@
+
+*
+
+!*/
+
+!*.pdf
+!*.png
+!*.sof
+!.gitignore
+!*.qsf
+!*.qpf
+!*.v
